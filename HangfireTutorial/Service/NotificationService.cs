@@ -17,7 +17,7 @@ namespace HangfireTutorial.Service
             _strAPI = System.Configuration.ConfigurationManager.AppSettings.Get("wAPI");
         }
 
-        public bool SendRequest()
+        public void SendRequest()
         {
             try
             {
@@ -32,24 +32,25 @@ namespace HangfireTutorial.Service
                 {
                     using (Stream strmReader = _response.GetResponseStream())
                     {
-                        if (strmReader == null) return false;
+                        if (strmReader == null) return;
 
                         using (StreamReader objReader = new StreamReader(strmReader))
                         {
                             if (objReader == null)
                             {
-                                return false;
+                                return;
                             }
-
-                            return true;
+                            string requestResponse = objReader.ReadToEnd();
+                            Console.WriteLine(requestResponse);
                         }
                     }
                 }
-            }
-            catch (Exception)
-            {
 
-                throw;
+            }
+            catch (Exception e)
+            {
+                new ErrorNotifyService().AlertException(e);
+                Console.WriteLine(e.Message);
             }
         }
     }

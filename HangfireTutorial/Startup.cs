@@ -49,9 +49,9 @@ namespace HangfireTutorial
 
 
             //BackgroundJob.Enqueue(() => Debug.WriteLine("Hello world from Hangfire!"));
-            BackgroundJob.Enqueue(() => FireAndForget());
+            //BackgroundJob.Enqueue(() => FireAndForget());
 
-            BackgroundJob.Schedule(() => Console.WriteLine("schedule"), TimeSpan.FromMinutes(5));
+            //BackgroundJob.Schedule(() => Console.WriteLine("schedule"), TimeSpan.FromMinutes(5));
 
             //RecurringJob.AddOrUpdate(() => Console.WriteLine("recurrent"), Cron.Daily(18, 0), TimeZoneInfo.Local);
             RecurringJob.AddOrUpdate(() => CallEndpoint(), Cron.Daily(18, 0), TimeZoneInfo.Local);
@@ -70,12 +70,12 @@ namespace HangfireTutorial
         {
             try
             {
-                var resolveCall = new NotificationService().SendRequest();
+                new NotificationService().SendRequest();
             }
-            catch (Exception)
+            catch (Exception e)
             {
 
-                throw;
+                Console.WriteLine(e.ToString());
             }
 
 
