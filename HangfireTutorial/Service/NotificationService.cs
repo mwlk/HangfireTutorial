@@ -17,7 +17,7 @@ namespace HangfireTutorial.Service
             _strAPI = System.Configuration.ConfigurationManager.AppSettings.Get("wAPI");
         }
 
-        public void SendRequest()
+        public bool SendRequest()
         {
             try
             {
@@ -28,16 +28,21 @@ namespace HangfireTutorial.Service
                 request.ContentType = "application/json";
                 request.Accept = "application/json";
 
-                using(WebResponse _response = request.GetResponse())
+                using (WebResponse _response = request.GetResponse())
                 {
                     using (Stream strmReader = _response.GetResponseStream())
                     {
-                        if (strmReader == null) return;
+                        if (strmReader == null) return false;
 
-                        //using (StreamReader objReader = new StreamReader(strmReader))
-                        //{
+                        using (StreamReader objReader = new StreamReader(strmReader))
+                        {
+                            if (objReader == null)
+                            {
+                                return false;
+                            }
 
-                        //}
+                            return true;
+                        }
                     }
                 }
             }
