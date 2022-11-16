@@ -222,3 +222,227 @@ D:\BAckup\Development\FECAC\Nueva carpeta\background\HangfireTutorial\HangfireTu
 D:\BAckup\Development\FECAC\Nueva carpeta\background\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.CopyComplete
 D:\BAckup\Development\FECAC\Nueva carpeta\background\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.dll
 D:\BAckup\Development\FECAC\Nueva carpeta\background\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.pdb
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.dll.config
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.pdb
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.exe
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.exe.config
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.rsp
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csi.exe
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csi.rsp
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.AppContext.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Collections.Immutable.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.IO.FileSystem.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Reflection.Metadata.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.exe
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.exe.config
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.rsp
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\VBCSCompiler.exe
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\VBCSCompiler.exe.config
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Antlr3.Runtime.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.SqlServer.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.AspNet.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.Core.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.SqlServer.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Google.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Web.Infrastructure.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Newtonsoft.Json.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Owin.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Net.Http.Formatting.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Helpers.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.Owin.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.WebHost.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Mvc.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Optimization.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Razor.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Deployment.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Razor.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\WebGrease.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Antlr3.Runtime.pdb
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.SqlServer.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.AspNet.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.Core.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.SqlServer.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Newtonsoft.Json.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Net.Http.Formatting.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Helpers.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.Owin.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.WebHost.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Mvc.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Optimization.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Razor.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Deployment.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Razor.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Google.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\ca\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\de\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\es\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\fa\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\fr\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\nb\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\nl\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt-BR\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt-PT\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\tr-TR\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\zh\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\zh-TW\Hangfire.Core.resources.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.AssemblyReference.cache
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.CoreCompileInputs.cache
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.CopyComplete
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.dll
+D:\BAckup\Proyectos\Fecac\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.pdb
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.dll.config
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\HangfireTutorial.pdb
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.exe
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.exe.config
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csc.rsp
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csi.exe
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\csi.rsp
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.AppContext.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Collections.Immutable.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.IO.FileSystem.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.exe
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.exe.config
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\vbc.rsp
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\VBCSCompiler.exe
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\roslyn\VBCSCompiler.exe.config
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Antlr3.Runtime.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.SqlServer.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.AspNet.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.Core.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.SqlServer.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Google.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Web.Infrastructure.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Newtonsoft.Json.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Owin.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Net.Http.Formatting.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Helpers.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.Owin.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.WebHost.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Mvc.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Optimization.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Razor.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Deployment.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Razor.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\WebGrease.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Antlr3.Runtime.pdb
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\EntityFramework.SqlServer.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.AspNet.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.Core.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Hangfire.SqlServer.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Newtonsoft.Json.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Net.Http.Formatting.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Helpers.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.Owin.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Http.WebHost.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Mvc.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Optimization.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.Razor.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Deployment.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\System.Web.WebPages.Razor.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Google.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\ca\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\de\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\es\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\fa\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\fr\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\nb\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\nl\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt-BR\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\pt-PT\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\tr-TR\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\zh\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\bin\zh-TW\Hangfire.Core.resources.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csprojAssemblyReference.cache
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.CoreCompileInputs.cache
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.csproj.CopyComplete
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.dll
+E:\Fecac - Gestión de Socios\Documentación\3 - Codigo Fuente\CC8\Desarrollo Mirko\HangfireTutorial\HangfireTutorial\obj\Debug\HangfireTutorial.pdb

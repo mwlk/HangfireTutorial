@@ -24,7 +24,7 @@ namespace HangfireTutorial
                 .UseSimpleAssemblyNameTypeSerializer()
                 .UseRecommendedSerializerSettings()
                 //.UseSqlServerStorage("Data Source=MIRKO;Initial Catalog=HangfireTest;Integrated Security=True;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
-                .UseSqlServerStorage("Data Source=192.168.0.87;Initial Catalog=HangfireTestFecac; Persist Security Info = True; User ID = Mpereyra; Password = Dicsys2021",
+                .UseSqlServerStorage(System.Configuration.ConfigurationManager.AppSettings.Get("connectionString"),
                 new SqlServerStorageOptions
                 {
                     CommandBatchMaxTimeout = TimeSpan.FromMinutes(5),
